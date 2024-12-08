@@ -1,2 +1,2 @@
-# Applogin
-App testing
+Username : Admin
+Password : Friendzin
