@@ -1,2 +1,2 @@
-Username : Admin
+Username : Friendzin
 Password : Friendzee
