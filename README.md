@@ -1,2 +1,2 @@
-Username : Friendzin
-Password : Friendzin
+Username : Indiacore
+Password : Mission@2025
